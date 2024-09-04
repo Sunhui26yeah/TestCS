@@ -8,4 +8,4 @@ public class Main {
         y = x*2+y;
         System.out.println(y);
     }
-}
+}git
