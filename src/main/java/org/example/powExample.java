@@ -14,7 +14,7 @@ public class powExample{
                 if (path == 1)
                     result = 3;
                 if (path == 2)
-                    result = 13;
+                    result = 13+5;
             } 
             else {
                 if (path == 1)
@@ -23,6 +23,7 @@ public class powExample{
                     result = 14;
             }
         }
+        result = result + 10;
         return result;
     }
 }
